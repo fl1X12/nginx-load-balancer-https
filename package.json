@@ -1,0 +1,14 @@
+{
+    "name": "nginx-demo-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app to demsontrate Nginx as a reverse proxy",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Shanmuga Teja JV",
+    "dependencies": {
+        "express": "^4.21.2",
+        "path": "^0.12.7"
+    }
+}
